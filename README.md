@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -33,5 +34,10 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
