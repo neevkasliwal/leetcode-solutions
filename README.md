@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neevkasliwal/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neevkasliwal/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
