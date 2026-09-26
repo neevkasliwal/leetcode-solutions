@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neevkasliwal/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
