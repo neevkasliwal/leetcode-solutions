@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -55,6 +56,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -79,6 +81,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/neevkasliwal/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -90,4 +93,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
