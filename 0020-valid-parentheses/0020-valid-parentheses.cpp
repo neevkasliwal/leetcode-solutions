@@ -14,6 +14,6 @@ public:
                 str.pop();
             }
         }
-        return str.empty();
+        return (str.empty() == true);
     }
 };
