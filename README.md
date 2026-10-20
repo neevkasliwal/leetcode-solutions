@@ -12,6 +12,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0169-majority-element](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -125,6 +128,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/neevkasliwal/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
