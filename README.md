@@ -115,17 +115,6 @@ g++ -std=c++17 -O2 main.cpp -o main && ./main
 
 Problems that use `ListNode` or `TreeNode` need those struct definitions added above the `Solution` class.
 
-## What's next
-
-Areas not yet covered, and where I plan to go next:
-
-- [ ] Dynamic programming
-- [ ] Graphs (BFS/DFS on graphs, union-find, topological sort)
-- [ ] Backtracking
-- [ ] Heaps / priority queues
-- [ ] Binary search (beyond Median of Two Sorted Arrays)
-- [ ] Greedy and intervals
-- [ ] Tries
 
 ## Notes
 
