@@ -12,19 +12,22 @@
 class Solution {
 public:
     int postIndex;
+    unordered_map<int,int> mp;
     TreeNode * cTree(vector<int>& inorder , vector<int>& postorder , int is, int ie){
         if(is>ie){
             return NULL;
         }
         TreeNode * root = new TreeNode(postorder[postIndex--]);
-        int inIndex;
-        for(int i = is; i<=ie;i++){
-            if(inorder[i] == root->val){
-                inIndex = i;
-                break;
-            }
+        
+        // for(int i = is; i<=ie;i++){
+        //     if(inorder[i] == root->val){
+        //         inIndex = i;
+        //         break;
+        //     }
 
-        }
+        // }
+        // we can solve using hashing
+        int inIndex = mp[root->val];
         root->right = cTree(inorder,postorder,inIndex+1,ie);
         root->left = cTree(inorder,postorder,is,inIndex-1);
         return root;
@@ -32,6 +35,9 @@ public:
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         postIndex = postorder.size()-1;
+        for(int i = 0;i<inorder.size();i++){
+            mp[inorder[i]] = i;
+        }
         return cTree(inorder,postorder,0,inorder.size()-1);
         
     }
